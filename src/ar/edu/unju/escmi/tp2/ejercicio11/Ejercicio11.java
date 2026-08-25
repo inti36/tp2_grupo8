@@ -12,7 +12,7 @@ public class Ejercicio11 {
 
         for (int i = 1; i <= 5; i++) {
 
-            System.out.print("Ingrese un número entero: ");
+            System.out.print("Ingrese un número entero: "); //
             numero = scanner.nextInt();
 
             if (numero % 2 == 0) {

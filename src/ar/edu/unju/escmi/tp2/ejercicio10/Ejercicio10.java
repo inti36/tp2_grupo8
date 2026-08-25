@@ -8,7 +8,7 @@ public class Ejercicio10 {
         int b = 5;
         int c = -14;
 
-        System.out.println("a) " + (a > 3));
+        System.out.println("a) " + (a > 3)); //
         System.out.println("b) " + (a > c));
         System.out.println("c) " + (a < c));
         System.out.println("d) " + (b < c));
