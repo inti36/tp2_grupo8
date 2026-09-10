@@ -1,7 +1,0 @@
-# archivos compilados de java
-*.class
-
-# carpertas de compilacion
-bin/
-out/
-target/

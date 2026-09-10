@@ -22,6 +22,7 @@ public class Ejercicio1 {
 		System.out.println("la edad de mi madre es: " + edad);
 		System.out.println("uno de nuestros proceres mas grandes es: " + nombreCompleto);
 		System.out.println("el nro de bingo es: " + numeroDeBingo);
+		System.out.println("el precio del celular es: " + precioCelular);
 		System.out.println("mi altura es: " + altura);
 		System.out.println("el peso de mi mascota es: " + pesoNala);
 		System.out.println("el cuatrimestre arranca el " + fechaInicioCuatrimestre);
